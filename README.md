@@ -1,4 +1,4 @@
-# IoT Automatic Rain Detector System
+# Automatic Rain Detection System
 
 A home-automation rain detection prototype built with **Arduino** and a **raindrop sensor module** for real-time weather sensing and automated alert/response triggering[cite: 2].
 
